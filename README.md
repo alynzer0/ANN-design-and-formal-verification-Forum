@@ -5,4 +5,13 @@ A Tool for Verifying Neural Networks using SMT-Based Model Checking. Using Frama
 
 And the Corresponding codebase of the paper is here https://github.com/HymnOfLight/QNNVerifier
 
+Here is the link for both the libraries which converts ANN to C Keras2c > https://github.com/kraiskil/onnx2c [github.com] 
+Onnx2c > https://github.com/f0uriest/keras2c [github.com]
+
+Here is the link for tool which is used in step 3 of the the paper Invarient  Analysis using  FRAMA-C with EVA Plugin Tool https://frama-c.com/fc-plugins/eva.html [frama-c.com]
+
+Here is the link to build the  quantised neural networks on top of the DSVerifier libraries. Link:
+https://ssvlab.github.io/dsverifier/ [ssvlab.github.io]
+
+
 
