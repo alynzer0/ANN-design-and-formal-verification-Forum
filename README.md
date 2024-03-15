@@ -13,5 +13,7 @@ Here is the link for tool which is used in step 3 of the the paper Invarient  An
 Here is the link to build the  quantised neural networks on top of the DSVerifier libraries. Link:
 https://ssvlab.github.io/dsverifier/ [ssvlab.github.io]
 
+Here is the link for SMT solver tool which is used for equivalent software verifier: https://github.com/esbmc/esbmc [github.com]
+
 
 
